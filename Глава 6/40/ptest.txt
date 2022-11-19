@@ -1,0 +1,3 @@
+Aram: 4
+Dol: 3
+Valera: 2
